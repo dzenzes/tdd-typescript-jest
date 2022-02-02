@@ -21,13 +21,13 @@
   },
   "homepage": "https://github.com/dzenzes/tdd-typescript-jest#readme",
   "devDependencies": {
-    "@types/jest": "^27.0.2",
+    "@types/jest": "^27.4.0",
     "husky": "^7.0.4",
-    "jest": "^27.3.1",
-    "lint-staged": "^11.2.6",
-    "prettier": "^2.4.1",
-    "ts-jest": "^27.0.7",
-    "typescript": "^4.4.4"
+    "jest": "^27.4.7",
+    "lint-staged": "^12.3.3",
+    "prettier": "^2.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.5.5"
   },
   "lint-staged": {
     "*.{js,css,md}": "prettier --write"
