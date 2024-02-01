@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/dzenzes/tdd-typescript-jest#readme",
   "devDependencies": {
-    "@types/jest": "29.5.11",
+    "@types/jest": "29.5.12",
     "husky": "8.0.0",
     "jest": "29.7.0",
     "lint-staged": "15.2.0",
